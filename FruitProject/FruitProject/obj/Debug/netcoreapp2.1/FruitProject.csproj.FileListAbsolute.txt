@@ -1,0 +1,11 @@
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\bin\Debug\netcoreapp2.1\FruitProject.deps.json
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\bin\Debug\netcoreapp2.1\FruitProject.runtimeconfig.json
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\bin\Debug\netcoreapp2.1\FruitProject.runtimeconfig.dev.json
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\bin\Debug\netcoreapp2.1\FruitProject.dll
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\bin\Debug\netcoreapp2.1\FruitProject.pdb
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.csprojAssemblyReference.cache
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.csproj.CoreCompileInputs.cache
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.AssemblyInfoInputs.cache
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.AssemblyInfo.cs
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.dll
+C:\Users\Veronica Inostroza\source\repos\FruitProject\FruitProject\obj\Debug\netcoreapp2.1\FruitProject.pdb
